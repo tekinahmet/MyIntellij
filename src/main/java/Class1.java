@@ -7,5 +7,10 @@ public class Class1 {
         System.out.println("from Intellij");
 
         System.out.println("push from intellij");
+
+        int a = 5;
+        int b = 6;
+        System.out.println(a + b);
+
     }
 }
