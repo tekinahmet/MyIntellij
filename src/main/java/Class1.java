@@ -12,5 +12,10 @@ public class Class1 {
         int b = 6;
         System.out.println(a + b);
 
+        double x = 1.5;
+        double y = 2.9;
+        System.out.println(x+y);
+            
+
     }
 }
