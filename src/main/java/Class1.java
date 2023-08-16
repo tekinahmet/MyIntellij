@@ -15,6 +15,11 @@ public class Class1 {
         double x = 1.5;
         double y = 2.9;
         System.out.println(x+y);
+
+        double q = 1.5;
+        double w = 2.9;
+        System.out.println(q+w);
+
             
 
     }
