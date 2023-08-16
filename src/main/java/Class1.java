@@ -5,5 +5,7 @@ public class Class1 {
         System.out.println("version three");
 
         System.out.println("from Intellij");
+
+        System.out.println("push from intellij");
     }
 }
