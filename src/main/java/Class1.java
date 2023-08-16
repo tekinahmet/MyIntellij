@@ -3,5 +3,7 @@ public class Class1 {
         System.out.println("version one");
         System.out.println("version two");
         System.out.println("version three");
+
+        System.out.println("from Intellij");
     }
 }
